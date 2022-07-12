@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dev_Karl
-- 👀 I’m interested in game progamming an artificial intelligence
+- 👀 I’m interested in game progamming and artificial intelligence
 - 🌱 I’m currently python, c, c++, and the bases of git and github
 - 💞️ I’m looking to collaborate on all projets who can help me to be learn more
 - 📫 How to reach me ...
